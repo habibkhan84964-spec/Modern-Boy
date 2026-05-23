@@ -99,7 +99,7 @@ export default function App() {
           </div>
         </div>
         <div className="flex gap-4 items-center">
-          <span className="text-[10px] text-slate-400">Follow us @ModernBoyOfficial</span>
+          <span className="text-[10px] text-slate-400 font-bold tracking-widest">MODERNBOY.COM</span>
           <div className="flex gap-2">
             <div className="w-5 h-5 bg-slate-100 rounded-full"></div>
             <div className="w-5 h-5 bg-slate-100 rounded-full"></div>
