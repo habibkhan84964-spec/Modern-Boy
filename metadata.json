@@ -1,0 +1,6 @@
+{
+  "name": "Boy's Fashion E-Commerce",
+  "description": "A mobile-first, highly-converting boy's fashion e-commerce prototype with shopping flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
